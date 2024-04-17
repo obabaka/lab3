@@ -1,0 +1,78 @@
+.menu {
+    background: lightgrey;
+    width: 105%;
+    text-align: left;
+    height: 50px;
+
+}
+.menu1{
+    width: 10%;
+    height: 60%;
+    background: grey;
+    text-decoration: none;
+    color: white;
+    float: right;
+    margin-right: 5%;
+    font-size: 130%;
+    vertical-align: center;
+}
+.menu1:hover {
+    height: 80%;
+    background: black;
+}
+.name{
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 150%;
+}
+.gallery{
+    text-align: center;
+    height: 300px;
+}
+.img1 {
+    border: 2px solid black;
+    text-align: center;
+    width: 81%;
+    height: 70%;
+}
+.img2 {
+    border: 2px solid black;
+    width: 27%;
+    height: 29%;
+}
+.div1{
+    border: 2px solid grey;
+    background: lightgrey;
+    overflow: auto;
+    margin: 7px;
+    float: left;
+    width: 17%;
+    height: 100%;
+    font-size: 80%;
+    text-align: center;
+}
+.logo {
+    margin:auto;
+    width: 50%;
+    height: 150px;
+}
+.logo1 {
+    width: 100%;
+}
+.text{
+    height: 200px;
+    width: 100%;
+    border: 2px solid grey;
+    margin-top: 15px;
+    overflow: auto;
+}
+h2{
+    text-align: center;
+}
+.imgtext {
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+    height: 80%;
+    width: 20%;
+}
